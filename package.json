@@ -1,0 +1,29 @@
+{
+  "name": "@andresciceri/fill-string",
+  "version": "1.0.0",
+  "description": "Create a new String with a specific size.",
+  "main": "lib/fill-string.js",
+  "scripts": {
+    "build": "tsc --project tsconfig.json --outDir lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Hugo Andrés Escobar Ciceri",
+    "email": "andresciceri@gmail.com"
+  },
+  "keywords": [
+    "string",
+    "strings",
+    "text",
+    "binary",
+    "fill text"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andresciceri/"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
