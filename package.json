@@ -1,6 +1,6 @@
 {
   "name": "@andresciceri/fill-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a new String with a specific size.",
   "main": "lib/fill-string.js",
   "scripts": {

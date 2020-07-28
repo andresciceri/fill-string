@@ -1,9 +1,9 @@
 {
     "compilerOptions": {
-        "module": "system",
+        "module": "ES2015",
         "noImplicitAny": true,
         "removeComments": false,
-        "preserveConstEnums": true,        
+        "preserveConstEnums": true,                
         "sourceMap": true,
         "target": "ESNext"        
     },
